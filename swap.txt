@@ -17,3 +17,12 @@ let div = soma / 2 53
 let sub = div - num_esc
 
 //eu vou precisar fazer alguns passos para mostrar os passos aos usuarios de forma mais mastigada//
+
+
+esta correto a execução, mas preciso passar todos os passos para os jogadores irem fazenod junto cmg
+
+coloquei todos os passos para os jogadores cobseguirem acompanhar toda conta
+
+agora eu preciso fazer o layout e modificar para que as linhas deem uma diminuida
+
+estava errado pois nao precisava fazer as contas e dar os resultados para o usuario

@@ -1,0 +1,19 @@
+Para conseguir entender oque teria que fazer, eu fui testando na calculadora e fiz varios let, um para cada passo
+multiplicação,soma, divisao e subtração
+ //aqui eu perguntei ao usuario quais numeros ele vai querer//
+let num_final = Number(prompt('qual numero voce quer que apareça no final?')) 50
+let num_esc= Number(prompt('qual numero voce quer que inicie a conta?')) 3
+
+
+//aqui eu comecei deixando o numero final dobrado//
+let dobro = num_final * 2 100
+//aq puis o numero inicial sobrado(vai precisar em um dos passos)//
+let dobro_in = num_esc * 2 6
+//aq eu somei o dobro do numero final e o dobro do numero inicial//
+let soma = dobro + dobro_in 10
+//aq foi preciso dividir a soma dos numeros em dobro por dois//
+let div = soma / 2 53
+//aq eu precisei subtrair o resultado da divisao pelo numero ecolhido para iniciar//
+let sub = div - num_esc
+
+//eu vou precisar fazer alguns passos para mostrar os passos aos usuarios de forma mais mastigada//
